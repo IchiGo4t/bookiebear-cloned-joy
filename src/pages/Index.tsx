@@ -15,7 +15,7 @@ const subjects = [
 const Index = () => {
   return (
     <div className="relative min-h-screen bg-background text-foreground">
-      <SEO title="Bookiebear — JEE & NEET Study Resources" description="Curated JEE & NEET notes, NCERT solutions, previous year papers and more." canonical={window.location.href} />
+      <SEO title="onlybooks — JEE & NEET Study Resources" description="Curated JEE & NEET notes, NCERT solutions, previous year papers and more." canonical={window.location.href} />
       <div className="fixed inset-0 grid-bg opacity-40" aria-hidden="true"></div>
       <div className="fixed inset-0 bg-gradient-to-br from-background/80 via-transparent to-background/80" aria-hidden="true"></div>
       <div className="pointer-events-none fixed top-20 left-10 w-32 h-32 bg-primary/10 rounded-full blur-3xl animate-float" aria-hidden="true"></div>

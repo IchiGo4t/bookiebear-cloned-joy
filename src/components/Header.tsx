@@ -9,7 +9,7 @@ const Header = () => {
           <span className="inline-flex h-7 w-7 items-center justify-center rounded-md bg-secondary text-secondary-foreground border">
             <BookOpen className="h-4 w-4" aria-hidden="true" />
           </span>
-          <span className="font-semibold tracking-tight">Bookiebear</span>
+          <span className="font-semibold tracking-tight">onlybooks</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm">
           <a href="#home" className="text-foreground/80 hover:text-foreground transition-colors">Home</a>
